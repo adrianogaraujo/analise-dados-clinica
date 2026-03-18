@@ -1,0 +1,501 @@
+﻿id_atendimento,data_agendamento,mes,dia_semana,medico,especialidade,convenio,bairro_paciente,status,duracao_minutos,valor_cobrado
+1,2024-05-05,5,Sunday,Dra. Ana Paula,Clínica Geral,Unimed,Adrianópolis,Cancelado,0,0.0
+2,2024-08-04,8,Sunday,Dr. Carlos Lima,Clínica Geral,Hapvida,Centro,Realizado,20,149.97
+3,2024-01-14,1,Sunday,Dr. Roberto Alves,Pediatria,Bradesco Saúde,Chapada,Realizado,30,221.45
+4,2024-01-04,1,Thursday,Dra. Fernanda Reis,Pediatria,Particular,Ponta Negra,Realizado,30,205.7
+5,2024-06-21,6,Friday,Dr. Carlos Lima,Cardiologia,Bradesco Saúde,Chapada,Realizado,20,381.31
+6,2024-11-05,11,Tuesday,Dr. Marcos Souza,Clínica Geral,SulAmérica,Centro,Faltou,0,0.0
+7,2024-07-12,7,Friday,Dr. Roberto Alves,Ortopedia,Hapvida,Ponta Negra,Realizado,20,273.72
+8,2024-12-26,12,Thursday,Dr. Carlos Lima,Dermatologia,SulAmérica,Adrianópolis,Realizado,20,228.1
+9,2024-02-21,2,Wednesday,Dra. Fernanda Reis,Cardiologia,Unimed,Ponta Negra,Faltou,0,0.0
+10,2024-06-30,6,Sunday,Dr. Marcos Souza,Ortopedia,SulAmérica,Centro,Realizado,30,261.97
+11,2024-05-05,5,Sunday,Dra. Fernanda Reis,Dermatologia,Bradesco Saúde,Chapada,Realizado,30,299.12
+12,2024-06-15,6,Saturday,Dra. Ana Paula,Cardiologia,Hapvida,Centro,Realizado,20,381.66
+13,2024-04-18,4,Thursday,Dra. Ana Paula,Cardiologia,Particular,Chapada,Realizado,40,396.63
+14,2024-03-12,3,Tuesday,Dr. Roberto Alves,Ortopedia,Particular,Flores,Realizado,30,257.47
+15,2024-10-25,10,Friday,Dr. Marcos Souza,Cardiologia,Hapvida,Adrianópolis,Realizado,60,433.29
+16,2024-01-25,1,Thursday,Dra. Ana Paula,Pediatria,Hapvida,Adrianópolis,Realizado,20,212.94
+17,2024-07-14,7,Sunday,Dr. Roberto Alves,Ortopedia,Hapvida,Ponta Negra,Realizado,60,280.48
+18,2024-02-28,2,Wednesday,Dr. Marcos Souza,Dermatologia,Unimed,Centro,Realizado,40,230.68
+19,2024-01-02,1,Tuesday,Dr. Roberto Alves,Cardiologia,Particular,Adrianópolis,Realizado,40,323.18
+20,2024-06-01,6,Saturday,Dr. Roberto Alves,Dermatologia,Unimed,Flores,Faltou,0,0.0
+21,2024-03-23,3,Saturday,Dr. Roberto Alves,Pediatria,Bradesco Saúde,Ponta Negra,Realizado,20,174.91
+22,2024-07-04,7,Thursday,Dra. Ana Paula,Ortopedia,Unimed,Centro,Realizado,40,317.97
+23,2024-02-13,2,Tuesday,Dra. Fernanda Reis,Pediatria,Hapvida,Centro,Remarcado,0,0.0
+24,2024-08-31,8,Saturday,Dr. Marcos Souza,Dermatologia,Bradesco Saúde,Flores,Realizado,30,255.69
+25,2024-10-03,10,Thursday,Dra. Ana Paula,Dermatologia,Particular,Ponta Negra,Remarcado,0,0.0
+26,2024-09-21,9,Saturday,Dr. Carlos Lima,Ortopedia,SulAmérica,Adrianópolis,Realizado,60,289.95
+27,2024-10-28,10,Monday,Dr. Roberto Alves,Pediatria,Unimed,Adrianópolis,Realizado,30,197.05
+28,2024-01-31,1,Wednesday,Dra. Ana Paula,Clínica Geral,Unimed,Centro,Cancelado,0,0.0
+29,2024-05-01,5,Wednesday,Dra. Fernanda Reis,Clínica Geral,SulAmérica,Adrianópolis,Realizado,40,135.87
+30,2024-10-19,10,Saturday,Dr. Roberto Alves,Dermatologia,Bradesco Saúde,Chapada,Cancelado,0,0.0
+31,2024-04-07,4,Sunday,Dr. Carlos Lima,Pediatria,Particular,Centro,Cancelado,0,0.0
+32,2024-08-27,8,Tuesday,Dr. Carlos Lima,Ortopedia,SulAmérica,Centro,Realizado,20,290.06
+33,2024-02-25,2,Sunday,Dra. Ana Paula,Ortopedia,SulAmérica,Adrianópolis,Cancelado,0,0.0
+34,2024-08-04,8,Sunday,Dr. Marcos Souza,Pediatria,Hapvida,Chapada,Realizado,30,179.38
+35,2024-10-08,10,Tuesday,Dr. Carlos Lima,Pediatria,Unimed,Flores,Realizado,20,185.84
+36,2024-05-01,5,Wednesday,Dra. Ana Paula,Clínica Geral,Unimed,Chapada,Remarcado,0,0.0
+37,2024-07-24,7,Wednesday,Dra. Ana Paula,Ortopedia,Particular,Chapada,Realizado,20,349.22
+38,2024-08-20,8,Tuesday,Dra. Fernanda Reis,Clínica Geral,Particular,Flores,Realizado,40,139.48
+39,2024-04-21,4,Sunday,Dr. Roberto Alves,Ortopedia,Bradesco Saúde,Flores,Realizado,20,316.71
+40,2024-10-26,10,Saturday,Dr. Roberto Alves,Clínica Geral,SulAmérica,Flores,Realizado,60,163.04
+41,2024-02-11,2,Sunday,Dra. Ana Paula,Pediatria,Unimed,Centro,Remarcado,0,0.0
+42,2024-04-30,4,Tuesday,Dr. Carlos Lima,Dermatologia,Unimed,Flores,Realizado,60,217.15
+43,2024-11-13,11,Wednesday,Dra. Fernanda Reis,Pediatria,Hapvida,Flores,Realizado,20,196.74
+44,2024-05-13,5,Monday,Dr. Marcos Souza,Dermatologia,Hapvida,Adrianópolis,Realizado,30,229.55
+45,2024-11-26,11,Tuesday,Dra. Fernanda Reis,Cardiologia,Particular,Ponta Negra,Realizado,40,306.61
+46,2024-10-15,10,Tuesday,Dr. Carlos Lima,Clínica Geral,Unimed,Flores,Realizado,20,184.43
+47,2024-06-27,6,Thursday,Dra. Ana Paula,Pediatria,Hapvida,Ponta Negra,Realizado,20,222.53
+48,2024-10-05,10,Saturday,Dr. Roberto Alves,Cardiologia,Bradesco Saúde,Flores,Realizado,40,410.68
+49,2024-12-05,12,Thursday,Dra. Ana Paula,Clínica Geral,Hapvida,Ponta Negra,Realizado,20,145.78
+50,2024-03-20,3,Wednesday,Dr. Marcos Souza,Clínica Geral,Unimed,Ponta Negra,Cancelado,0,0.0
+51,2024-04-14,4,Sunday,Dr. Marcos Souza,Dermatologia,Bradesco Saúde,Flores,Cancelado,0,0.0
+52,2024-01-27,1,Saturday,Dr. Carlos Lima,Ortopedia,SulAmérica,Chapada,Faltou,0,0.0
+53,2024-03-07,3,Thursday,Dra. Ana Paula,Cardiologia,Unimed,Chapada,Realizado,40,311.17
+54,2024-02-27,2,Tuesday,Dra. Ana Paula,Dermatologia,Particular,Flores,Realizado,20,280.92
+55,2024-03-16,3,Saturday,Dra. Ana Paula,Clínica Geral,SulAmérica,Centro,Realizado,60,153.91
+56,2024-01-21,1,Sunday,Dr. Marcos Souza,Cardiologia,SulAmérica,Adrianópolis,Faltou,0,0.0
+57,2024-10-13,10,Sunday,Dr. Roberto Alves,Pediatria,Unimed,Adrianópolis,Realizado,60,161.79
+58,2024-03-31,3,Sunday,Dra. Fernanda Reis,Pediatria,Bradesco Saúde,Centro,Remarcado,0,0.0
+59,2024-07-29,7,Monday,Dra. Ana Paula,Pediatria,SulAmérica,Ponta Negra,Cancelado,0,0.0
+60,2024-01-20,1,Saturday,Dra. Ana Paula,Pediatria,Unimed,Adrianópolis,Realizado,60,188.65
+61,2024-04-26,4,Friday,Dr. Carlos Lima,Ortopedia,SulAmérica,Adrianópolis,Realizado,30,259.13
+62,2024-02-05,2,Monday,Dr. Marcos Souza,Ortopedia,SulAmérica,Flores,Realizado,40,364.12
+63,2024-01-15,1,Monday,Dr. Marcos Souza,Ortopedia,Hapvida,Adrianópolis,Realizado,20,286.05
+64,2024-11-01,11,Friday,Dr. Marcos Souza,Dermatologia,SulAmérica,Ponta Negra,Realizado,60,278.75
+65,2024-02-29,2,Thursday,Dra. Fernanda Reis,Ortopedia,Hapvida,Flores,Remarcado,0,0.0
+66,2024-08-11,8,Sunday,Dr. Roberto Alves,Pediatria,SulAmérica,Flores,Realizado,20,175.44
+67,2024-12-06,12,Friday,Dr. Roberto Alves,Pediatria,SulAmérica,Ponta Negra,Realizado,40,190.44
+68,2024-12-07,12,Saturday,Dr. Marcos Souza,Clínica Geral,SulAmérica,Chapada,Realizado,60,160.3
+69,2024-08-03,8,Saturday,Dra. Ana Paula,Cardiologia,Hapvida,Flores,Realizado,60,323.38
+70,2024-01-01,1,Monday,Dr. Marcos Souza,Dermatologia,SulAmérica,Adrianópolis,Realizado,40,309.46
+71,2024-06-13,6,Thursday,Dra. Fernanda Reis,Ortopedia,Hapvida,Chapada,Realizado,60,348.02
+72,2024-03-27,3,Wednesday,Dr. Marcos Souza,Pediatria,Hapvida,Flores,Realizado,20,220.64
+73,2024-04-30,4,Tuesday,Dra. Ana Paula,Dermatologia,SulAmérica,Adrianópolis,Realizado,40,301.98
+74,2024-08-31,8,Saturday,Dra. Fernanda Reis,Pediatria,Unimed,Chapada,Realizado,20,196.05
+75,2024-07-15,7,Monday,Dra. Fernanda Reis,Dermatologia,Bradesco Saúde,Chapada,Cancelado,0,0.0
+76,2024-01-03,1,Wednesday,Dra. Fernanda Reis,Pediatria,Bradesco Saúde,Adrianópolis,Realizado,20,219.37
+77,2024-10-12,10,Saturday,Dr. Carlos Lima,Pediatria,Hapvida,Chapada,Realizado,30,159.37
+78,2024-10-13,10,Sunday,Dra. Fernanda Reis,Pediatria,Particular,Flores,Realizado,40,167.11
+79,2024-10-07,10,Monday,Dra. Fernanda Reis,Dermatologia,Particular,Adrianópolis,Faltou,0,0.0
+80,2024-05-06,5,Monday,Dr. Roberto Alves,Ortopedia,Particular,Chapada,Realizado,40,260.43
+81,2024-12-31,12,Tuesday,Dra. Ana Paula,Pediatria,SulAmérica,Ponta Negra,Realizado,40,176.42
+82,2024-02-11,2,Sunday,Dra. Ana Paula,Cardiologia,SulAmérica,Adrianópolis,Faltou,0,0.0
+83,2024-12-27,12,Friday,Dr. Carlos Lima,Pediatria,Particular,Chapada,Realizado,30,180.98
+84,2024-07-31,7,Wednesday,Dra. Ana Paula,Ortopedia,SulAmérica,Chapada,Realizado,20,287.56
+85,2024-01-11,1,Thursday,Dr. Roberto Alves,Ortopedia,Hapvida,Chapada,Remarcado,0,0.0
+86,2024-06-01,6,Saturday,Dra. Fernanda Reis,Ortopedia,Unimed,Chapada,Remarcado,0,0.0
+87,2024-04-22,4,Monday,Dra. Fernanda Reis,Dermatologia,Hapvida,Adrianópolis,Cancelado,0,0.0
+88,2024-07-18,7,Thursday,Dra. Fernanda Reis,Cardiologia,Particular,Adrianópolis,Realizado,40,413.52
+89,2024-09-30,9,Monday,Dr. Carlos Lima,Ortopedia,Bradesco Saúde,Chapada,Remarcado,0,0.0
+90,2024-02-12,2,Monday,Dra. Ana Paula,Dermatologia,Hapvida,Chapada,Realizado,60,248.18
+91,2024-06-16,6,Sunday,Dra. Fernanda Reis,Pediatria,Unimed,Ponta Negra,Realizado,30,173.23
+92,2024-08-03,8,Saturday,Dr. Carlos Lima,Cardiologia,Particular,Chapada,Realizado,40,373.48
+93,2024-06-28,6,Friday,Dr. Carlos Lima,Clínica Geral,Hapvida,Centro,Realizado,30,135.96
+94,2024-01-11,1,Thursday,Dra. Ana Paula,Clínica Geral,Bradesco Saúde,Adrianópolis,Realizado,30,175.63
+95,2024-04-21,4,Sunday,Dr. Marcos Souza,Ortopedia,Unimed,Ponta Negra,Realizado,60,263.95
+96,2024-02-28,2,Wednesday,Dr. Marcos Souza,Pediatria,Hapvida,Centro,Realizado,30,224.06
+97,2024-10-21,10,Monday,Dra. Fernanda Reis,Dermatologia,Unimed,Chapada,Remarcado,0,0.0
+98,2024-11-17,11,Sunday,Dr. Carlos Lima,Pediatria,Unimed,Ponta Negra,Realizado,30,208.6
+99,2024-10-16,10,Wednesday,Dr. Carlos Lima,Dermatologia,Unimed,Ponta Negra,Cancelado,0,0.0
+100,2024-02-05,2,Monday,Dr. Carlos Lima,Dermatologia,Particular,Chapada,Realizado,40,232.37
+101,2024-07-04,7,Thursday,Dra. Ana Paula,Ortopedia,Unimed,Chapada,Realizado,60,255.66
+102,2024-05-18,5,Saturday,Dr. Roberto Alves,Pediatria,Hapvida,Flores,Remarcado,0,0.0
+103,2024-10-30,10,Wednesday,Dr. Marcos Souza,Ortopedia,Particular,Adrianópolis,Realizado,40,352.86
+104,2024-05-04,5,Saturday,Dra. Fernanda Reis,Clínica Geral,SulAmérica,Flores,Faltou,0,0.0
+105,2024-09-10,9,Tuesday,Dra. Ana Paula,Dermatologia,Particular,Chapada,Realizado,40,283.19
+106,2024-06-23,6,Sunday,Dr. Marcos Souza,Pediatria,SulAmérica,Flores,Cancelado,0,0.0
+107,2024-04-07,4,Sunday,Dra. Ana Paula,Cardiologia,Hapvida,Chapada,Realizado,20,399.56
+108,2024-12-19,12,Thursday,Dra. Fernanda Reis,Ortopedia,Hapvida,Chapada,Cancelado,0,0.0
+109,2024-04-23,4,Tuesday,Dra. Ana Paula,Ortopedia,Unimed,Ponta Negra,Realizado,60,347.55
+110,2024-09-28,9,Saturday,Dra. Fernanda Reis,Dermatologia,SulAmérica,Flores,Realizado,40,219.9
+111,2024-05-18,5,Saturday,Dr. Marcos Souza,Cardiologia,SulAmérica,Ponta Negra,Cancelado,0,0.0
+112,2024-06-10,6,Monday,Dr. Carlos Lima,Pediatria,Unimed,Flores,Cancelado,0,0.0
+113,2024-09-04,9,Wednesday,Dr. Roberto Alves,Pediatria,Bradesco Saúde,Flores,Realizado,40,178.81
+114,2024-04-09,4,Tuesday,Dr. Marcos Souza,Dermatologia,SulAmérica,Adrianópolis,Remarcado,0,0.0
+115,2024-12-28,12,Saturday,Dr. Marcos Souza,Cardiologia,Bradesco Saúde,Centro,Realizado,30,313.72
+116,2024-03-05,3,Tuesday,Dr. Carlos Lima,Clínica Geral,Hapvida,Centro,Realizado,60,179.29
+117,2024-08-13,8,Tuesday,Dra. Ana Paula,Dermatologia,SulAmérica,Centro,Realizado,40,274.83
+118,2024-02-03,2,Saturday,Dra. Fernanda Reis,Cardiologia,Particular,Centro,Realizado,60,343.83
+119,2024-10-15,10,Tuesday,Dr. Carlos Lima,Dermatologia,Unimed,Adrianópolis,Realizado,40,218.86
+120,2024-11-06,11,Wednesday,Dr. Roberto Alves,Clínica Geral,Hapvida,Flores,Cancelado,0,0.0
+121,2024-08-14,8,Wednesday,Dr. Roberto Alves,Pediatria,Hapvida,Chapada,Realizado,40,175.39
+122,2024-11-08,11,Friday,Dra. Ana Paula,Cardiologia,Hapvida,Adrianópolis,Realizado,20,343.03
+123,2024-03-29,3,Friday,Dra. Ana Paula,Cardiologia,Unimed,Centro,Realizado,20,399.64
+124,2024-08-28,8,Wednesday,Dr. Carlos Lima,Ortopedia,Particular,Adrianópolis,Realizado,40,331.51
+125,2024-08-20,8,Tuesday,Dr. Carlos Lima,Cardiologia,SulAmérica,Adrianópolis,Cancelado,0,0.0
+126,2024-04-11,4,Thursday,Dr. Carlos Lima,Cardiologia,Hapvida,Flores,Realizado,60,421.71
+127,2024-03-13,3,Wednesday,Dr. Carlos Lima,Pediatria,Bradesco Saúde,Centro,Faltou,0,0.0
+128,2024-10-18,10,Friday,Dra. Fernanda Reis,Pediatria,SulAmérica,Centro,Realizado,40,187.0
+129,2024-05-19,5,Sunday,Dra. Fernanda Reis,Ortopedia,SulAmérica,Centro,Realizado,60,269.35
+130,2024-06-14,6,Friday,Dr. Roberto Alves,Dermatologia,Unimed,Ponta Negra,Faltou,0,0.0
+131,2024-12-11,12,Wednesday,Dr. Marcos Souza,Clínica Geral,Unimed,Flores,Realizado,20,170.29
+132,2024-11-29,11,Friday,Dr. Marcos Souza,Clínica Geral,Bradesco Saúde,Adrianópolis,Realizado,60,173.15
+133,2024-09-08,9,Sunday,Dra. Fernanda Reis,Dermatologia,Particular,Ponta Negra,Realizado,20,268.63
+134,2024-02-23,2,Friday,Dr. Marcos Souza,Ortopedia,SulAmérica,Chapada,Realizado,30,347.52
+135,2024-07-24,7,Wednesday,Dra. Fernanda Reis,Ortopedia,SulAmérica,Centro,Realizado,20,314.26
+136,2024-07-25,7,Thursday,Dr. Roberto Alves,Cardiologia,SulAmérica,Chapada,Realizado,20,370.68
+137,2024-07-04,7,Thursday,Dra. Fernanda Reis,Ortopedia,Unimed,Centro,Realizado,60,306.3
+138,2024-05-27,5,Monday,Dra. Fernanda Reis,Pediatria,SulAmérica,Centro,Realizado,60,154.83
+139,2024-12-29,12,Sunday,Dra. Ana Paula,Clínica Geral,Hapvida,Ponta Negra,Cancelado,0,0.0
+140,2024-02-17,2,Saturday,Dr. Carlos Lima,Dermatologia,Unimed,Chapada,Realizado,30,223.29
+141,2024-05-29,5,Wednesday,Dra. Fernanda Reis,Clínica Geral,Bradesco Saúde,Chapada,Realizado,40,129.39
+142,2024-03-15,3,Friday,Dra. Ana Paula,Ortopedia,Bradesco Saúde,Flores,Realizado,60,331.37
+143,2024-05-21,5,Tuesday,Dra. Fernanda Reis,Dermatologia,Bradesco Saúde,Ponta Negra,Faltou,0,0.0
+144,2024-05-24,5,Friday,Dr. Marcos Souza,Dermatologia,SulAmérica,Flores,Faltou,0,0.0
+145,2024-08-16,8,Friday,Dr. Roberto Alves,Dermatologia,Particular,Chapada,Faltou,0,0.0
+146,2024-10-05,10,Saturday,Dra. Fernanda Reis,Cardiologia,SulAmérica,Ponta Negra,Realizado,60,341.51
+147,2024-04-29,4,Monday,Dr. Carlos Lima,Pediatria,Bradesco Saúde,Ponta Negra,Realizado,60,189.62
+148,2024-12-05,12,Thursday,Dra. Fernanda Reis,Ortopedia,Particular,Centro,Realizado,30,363.91
+149,2024-06-18,6,Tuesday,Dr. Carlos Lima,Pediatria,Hapvida,Chapada,Remarcado,0,0.0
+150,2024-01-08,1,Monday,Dra. Ana Paula,Clínica Geral,Hapvida,Chapada,Faltou,0,0.0
+151,2024-05-15,5,Wednesday,Dr. Roberto Alves,Pediatria,Unimed,Chapada,Realizado,40,170.95
+152,2024-09-30,9,Monday,Dra. Fernanda Reis,Clínica Geral,SulAmérica,Ponta Negra,Faltou,0,0.0
+153,2024-02-05,2,Monday,Dr. Marcos Souza,Ortopedia,Hapvida,Adrianópolis,Realizado,30,304.25
+154,2024-11-20,11,Wednesday,Dr. Carlos Lima,Clínica Geral,Particular,Chapada,Remarcado,0,0.0
+155,2024-01-24,1,Wednesday,Dr. Marcos Souza,Pediatria,SulAmérica,Centro,Faltou,0,0.0
+156,2024-03-15,3,Friday,Dr. Roberto Alves,Cardiologia,SulAmérica,Chapada,Realizado,30,403.28
+157,2024-02-10,2,Saturday,Dr. Roberto Alves,Dermatologia,Bradesco Saúde,Adrianópolis,Realizado,60,235.38
+158,2024-08-24,8,Saturday,Dra. Fernanda Reis,Ortopedia,Hapvida,Ponta Negra,Realizado,40,264.24
+159,2024-12-12,12,Thursday,Dr. Roberto Alves,Clínica Geral,Particular,Adrianópolis,Faltou,0,0.0
+160,2024-10-27,10,Sunday,Dr. Marcos Souza,Clínica Geral,Particular,Chapada,Remarcado,0,0.0
+161,2024-04-11,4,Thursday,Dra. Fernanda Reis,Cardiologia,Particular,Chapada,Faltou,0,0.0
+162,2024-07-02,7,Tuesday,Dr. Marcos Souza,Clínica Geral,Bradesco Saúde,Centro,Realizado,40,144.89
+163,2024-12-17,12,Tuesday,Dr. Roberto Alves,Ortopedia,SulAmérica,Chapada,Realizado,20,274.35
+164,2024-06-29,6,Saturday,Dra. Ana Paula,Cardiologia,Bradesco Saúde,Flores,Realizado,30,427.66
+165,2024-11-17,11,Sunday,Dr. Marcos Souza,Cardiologia,Bradesco Saúde,Chapada,Realizado,20,410.64
+166,2024-03-08,3,Friday,Dr. Marcos Souza,Clínica Geral,Hapvida,Ponta Negra,Realizado,20,165.5
+167,2024-10-03,10,Thursday,Dr. Roberto Alves,Ortopedia,Bradesco Saúde,Flores,Realizado,40,359.58
+168,2024-09-03,9,Tuesday,Dr. Marcos Souza,Cardiologia,Bradesco Saúde,Centro,Realizado,40,410.01
+169,2024-04-25,4,Thursday,Dr. Roberto Alves,Ortopedia,Unimed,Ponta Negra,Realizado,60,277.39
+170,2024-10-01,10,Tuesday,Dra. Fernanda Reis,Clínica Geral,Particular,Ponta Negra,Realizado,20,181.05
+171,2024-11-22,11,Friday,Dr. Carlos Lima,Cardiologia,Hapvida,Adrianópolis,Realizado,40,373.01
+172,2024-10-14,10,Monday,Dr. Roberto Alves,Ortopedia,Unimed,Adrianópolis,Realizado,40,351.89
+173,2024-06-03,6,Monday,Dra. Fernanda Reis,Clínica Geral,Particular,Centro,Faltou,0,0.0
+174,2024-06-04,6,Tuesday,Dra. Fernanda Reis,Pediatria,Unimed,Centro,Remarcado,0,0.0
+175,2024-03-10,3,Sunday,Dra. Fernanda Reis,Clínica Geral,Bradesco Saúde,Chapada,Faltou,0,0.0
+176,2024-03-20,3,Wednesday,Dr. Carlos Lima,Cardiologia,Hapvida,Chapada,Realizado,60,422.95
+177,2024-05-23,5,Thursday,Dr. Carlos Lima,Dermatologia,Particular,Ponta Negra,Remarcado,0,0.0
+178,2024-04-30,4,Tuesday,Dr. Carlos Lima,Pediatria,Particular,Ponta Negra,Realizado,40,175.9
+179,2024-05-21,5,Tuesday,Dr. Carlos Lima,Dermatologia,SulAmérica,Chapada,Realizado,30,223.51
+180,2024-11-01,11,Friday,Dr. Carlos Lima,Clínica Geral,Bradesco Saúde,Ponta Negra,Realizado,20,141.18
+181,2024-04-15,4,Monday,Dr. Carlos Lima,Pediatria,Bradesco Saúde,Flores,Cancelado,0,0.0
+182,2024-04-29,4,Monday,Dra. Ana Paula,Pediatria,Hapvida,Flores,Realizado,40,183.75
+183,2024-03-15,3,Friday,Dra. Ana Paula,Clínica Geral,SulAmérica,Flores,Faltou,0,0.0
+184,2024-01-14,1,Sunday,Dr. Carlos Lima,Cardiologia,Bradesco Saúde,Ponta Negra,Realizado,30,412.02
+185,2024-03-30,3,Saturday,Dr. Carlos Lima,Pediatria,Hapvida,Adrianópolis,Realizado,40,214.97
+186,2024-02-02,2,Friday,Dra. Fernanda Reis,Ortopedia,Hapvida,Ponta Negra,Realizado,60,255.83
+187,2024-09-14,9,Saturday,Dr. Roberto Alves,Dermatologia,Hapvida,Centro,Realizado,30,263.57
+188,2024-01-16,1,Tuesday,Dra. Fernanda Reis,Dermatologia,SulAmérica,Chapada,Realizado,20,254.24
+189,2024-08-15,8,Thursday,Dr. Carlos Lima,Ortopedia,Unimed,Ponta Negra,Realizado,20,281.65
+190,2024-05-20,5,Monday,Dra. Fernanda Reis,Dermatologia,Bradesco Saúde,Flores,Realizado,40,224.49
+191,2024-11-05,11,Tuesday,Dr. Carlos Lima,Dermatologia,SulAmérica,Centro,Realizado,60,246.26
+192,2024-04-26,4,Friday,Dr. Marcos Souza,Dermatologia,Bradesco Saúde,Chapada,Realizado,60,306.79
+193,2024-06-09,6,Sunday,Dra. Fernanda Reis,Ortopedia,Particular,Ponta Negra,Cancelado,0,0.0
+194,2024-12-17,12,Tuesday,Dra. Fernanda Reis,Cardiologia,SulAmérica,Centro,Remarcado,0,0.0
+195,2024-02-19,2,Monday,Dra. Ana Paula,Clínica Geral,Unimed,Flores,Realizado,40,146.89
+196,2024-10-14,10,Monday,Dr. Marcos Souza,Clínica Geral,Hapvida,Centro,Remarcado,0,0.0
+197,2024-08-04,8,Sunday,Dr. Carlos Lima,Ortopedia,SulAmérica,Ponta Negra,Faltou,0,0.0
+198,2024-10-22,10,Tuesday,Dra. Ana Paula,Dermatologia,SulAmérica,Chapada,Realizado,30,264.38
+199,2024-10-11,10,Friday,Dr. Carlos Lima,Pediatria,Unimed,Ponta Negra,Realizado,40,203.62
+200,2024-10-14,10,Monday,Dr. Roberto Alves,Dermatologia,Bradesco Saúde,Flores,Cancelado,0,0.0
+201,2024-12-02,12,Monday,Dr. Carlos Lima,Dermatologia,Unimed,Adrianópolis,Realizado,40,248.86
+202,2024-06-28,6,Friday,Dr. Carlos Lima,Cardiologia,SulAmérica,Adrianópolis,Remarcado,0,0.0
+203,2024-02-05,2,Monday,Dr. Carlos Lima,Pediatria,Hapvida,Centro,Realizado,30,222.97
+204,2024-08-20,8,Tuesday,Dra. Ana Paula,Dermatologia,Bradesco Saúde,Ponta Negra,Realizado,40,308.74
+205,2024-10-17,10,Thursday,Dr. Roberto Alves,Cardiologia,SulAmérica,Centro,Cancelado,0,0.0
+206,2024-11-12,11,Tuesday,Dr. Carlos Lima,Clínica Geral,Bradesco Saúde,Ponta Negra,Realizado,20,142.61
+207,2024-08-14,8,Wednesday,Dr. Marcos Souza,Ortopedia,Particular,Adrianópolis,Realizado,60,314.67
+208,2024-02-26,2,Monday,Dr. Roberto Alves,Dermatologia,Unimed,Chapada,Realizado,40,242.59
+209,2024-07-21,7,Sunday,Dr. Carlos Lima,Dermatologia,SulAmérica,Adrianópolis,Realizado,20,240.98
+210,2024-05-10,5,Friday,Dr. Marcos Souza,Cardiologia,Bradesco Saúde,Ponta Negra,Cancelado,0,0.0
+211,2024-08-08,8,Thursday,Dra. Ana Paula,Clínica Geral,Unimed,Chapada,Realizado,30,129.71
+212,2024-12-08,12,Sunday,Dr. Carlos Lima,Dermatologia,Bradesco Saúde,Chapada,Realizado,40,273.46
+213,2024-02-09,2,Friday,Dr. Roberto Alves,Clínica Geral,Particular,Chapada,Realizado,40,157.66
+214,2024-08-01,8,Thursday,Dr. Marcos Souza,Dermatologia,Particular,Centro,Cancelado,0,0.0
+215,2024-03-28,3,Thursday,Dr. Roberto Alves,Ortopedia,Unimed,Chapada,Remarcado,0,0.0
+216,2024-02-24,2,Saturday,Dra. Fernanda Reis,Cardiologia,Unimed,Flores,Realizado,30,304.71
+217,2024-06-07,6,Friday,Dra. Ana Paula,Ortopedia,Hapvida,Ponta Negra,Realizado,40,288.44
+218,2024-02-28,2,Wednesday,Dr. Marcos Souza,Pediatria,Unimed,Ponta Negra,Realizado,30,218.4
+219,2024-05-11,5,Saturday,Dra. Ana Paula,Pediatria,Bradesco Saúde,Flores,Realizado,30,170.25
+220,2024-11-17,11,Sunday,Dra. Fernanda Reis,Pediatria,Unimed,Flores,Realizado,60,163.43
+221,2024-10-16,10,Wednesday,Dr. Marcos Souza,Dermatologia,Particular,Adrianópolis,Realizado,40,261.45
+222,2024-11-19,11,Tuesday,Dr. Marcos Souza,Ortopedia,Unimed,Flores,Realizado,40,373.28
+223,2024-06-07,6,Friday,Dra. Fernanda Reis,Clínica Geral,SulAmérica,Centro,Realizado,60,142.02
+224,2024-02-09,2,Friday,Dr. Carlos Lima,Clínica Geral,SulAmérica,Flores,Faltou,0,0.0
+225,2024-10-24,10,Thursday,Dra. Fernanda Reis,Dermatologia,Hapvida,Flores,Realizado,20,279.71
+226,2024-09-13,9,Friday,Dr. Carlos Lima,Pediatria,SulAmérica,Chapada,Realizado,30,207.84
+227,2024-02-13,2,Tuesday,Dr. Roberto Alves,Clínica Geral,SulAmérica,Adrianópolis,Remarcado,0,0.0
+228,2024-08-12,8,Monday,Dr. Roberto Alves,Clínica Geral,Bradesco Saúde,Flores,Cancelado,0,0.0
+229,2024-05-24,5,Friday,Dra. Fernanda Reis,Dermatologia,Bradesco Saúde,Ponta Negra,Realizado,60,236.26
+230,2024-11-27,11,Wednesday,Dr. Marcos Souza,Dermatologia,Unimed,Centro,Cancelado,0,0.0
+231,2024-07-16,7,Tuesday,Dr. Marcos Souza,Cardiologia,Unimed,Flores,Realizado,40,399.45
+232,2024-12-05,12,Thursday,Dr. Marcos Souza,Pediatria,SulAmérica,Ponta Negra,Realizado,30,179.48
+233,2024-02-13,2,Tuesday,Dr. Roberto Alves,Ortopedia,Bradesco Saúde,Chapada,Realizado,40,330.88
+234,2024-12-16,12,Monday,Dra. Fernanda Reis,Cardiologia,Bradesco Saúde,Flores,Realizado,20,386.19
+235,2024-04-02,4,Tuesday,Dr. Marcos Souza,Cardiologia,Unimed,Chapada,Realizado,30,372.51
+236,2024-03-20,3,Wednesday,Dr. Carlos Lima,Pediatria,Bradesco Saúde,Ponta Negra,Remarcado,0,0.0
+237,2024-09-26,9,Thursday,Dr. Carlos Lima,Clínica Geral,Hapvida,Ponta Negra,Cancelado,0,0.0
+238,2024-03-19,3,Tuesday,Dra. Ana Paula,Dermatologia,Bradesco Saúde,Flores,Realizado,30,221.53
+239,2024-07-05,7,Friday,Dra. Fernanda Reis,Pediatria,Particular,Flores,Realizado,30,213.14
+240,2024-05-02,5,Thursday,Dra. Fernanda Reis,Cardiologia,Particular,Adrianópolis,Realizado,40,342.41
+241,2024-08-24,8,Saturday,Dr. Marcos Souza,Cardiologia,Hapvida,Chapada,Remarcado,0,0.0
+242,2024-03-23,3,Saturday,Dr. Roberto Alves,Dermatologia,Hapvida,Adrianópolis,Realizado,30,231.15
+243,2024-07-09,7,Tuesday,Dr. Roberto Alves,Cardiologia,Unimed,Centro,Realizado,20,303.21
+244,2024-05-19,5,Sunday,Dra. Fernanda Reis,Cardiologia,Unimed,Flores,Cancelado,0,0.0
+245,2024-04-23,4,Tuesday,Dr. Marcos Souza,Pediatria,Particular,Centro,Realizado,60,195.54
+246,2024-07-10,7,Wednesday,Dra. Fernanda Reis,Ortopedia,Unimed,Centro,Realizado,30,336.31
+247,2024-02-20,2,Tuesday,Dra. Ana Paula,Cardiologia,Bradesco Saúde,Adrianópolis,Realizado,40,299.82
+248,2024-08-29,8,Thursday,Dra. Ana Paula,Clínica Geral,SulAmérica,Chapada,Faltou,0,0.0
+249,2024-02-10,2,Saturday,Dr. Marcos Souza,Ortopedia,Hapvida,Adrianópolis,Realizado,20,316.45
+250,2024-11-07,11,Thursday,Dr. Roberto Alves,Pediatria,Hapvida,Chapada,Remarcado,0,0.0
+251,2024-03-03,3,Sunday,Dra. Ana Paula,Clínica Geral,SulAmérica,Chapada,Realizado,20,141.09
+252,2024-09-12,9,Thursday,Dr. Roberto Alves,Dermatologia,Particular,Flores,Realizado,20,277.02
+253,2024-01-01,1,Monday,Dra. Ana Paula,Pediatria,Bradesco Saúde,Flores,Realizado,40,165.55
+254,2024-02-13,2,Tuesday,Dr. Carlos Lima,Ortopedia,Bradesco Saúde,Flores,Realizado,40,337.91
+255,2024-09-16,9,Monday,Dr. Roberto Alves,Dermatologia,Hapvida,Centro,Cancelado,0,0.0
+256,2024-07-17,7,Wednesday,Dr. Marcos Souza,Ortopedia,Particular,Centro,Realizado,40,301.41
+257,2024-12-02,12,Monday,Dr. Roberto Alves,Cardiologia,Unimed,Ponta Negra,Realizado,20,428.64
+258,2024-06-22,6,Saturday,Dra. Fernanda Reis,Pediatria,Unimed,Chapada,Realizado,30,162.9
+259,2024-08-22,8,Thursday,Dr. Marcos Souza,Pediatria,Bradesco Saúde,Adrianópolis,Realizado,20,177.56
+260,2024-06-10,6,Monday,Dr. Marcos Souza,Clínica Geral,Bradesco Saúde,Flores,Faltou,0,0.0
+261,2024-01-19,1,Friday,Dr. Marcos Souza,Ortopedia,Hapvida,Ponta Negra,Realizado,30,268.62
+262,2024-07-07,7,Sunday,Dra. Fernanda Reis,Clínica Geral,SulAmérica,Chapada,Realizado,60,182.98
+263,2024-09-11,9,Wednesday,Dra. Fernanda Reis,Ortopedia,SulAmérica,Ponta Negra,Remarcado,0,0.0
+264,2024-08-05,8,Monday,Dr. Carlos Lima,Dermatologia,SulAmérica,Chapada,Cancelado,0,0.0
+265,2024-06-13,6,Thursday,Dr. Carlos Lima,Dermatologia,Bradesco Saúde,Ponta Negra,Realizado,20,300.23
+266,2024-08-06,8,Tuesday,Dra. Fernanda Reis,Cardiologia,SulAmérica,Ponta Negra,Realizado,30,333.61
+267,2024-06-29,6,Saturday,Dr. Roberto Alves,Ortopedia,Unimed,Chapada,Cancelado,0,0.0
+268,2024-11-22,11,Friday,Dr. Marcos Souza,Cardiologia,Unimed,Flores,Realizado,60,389.9
+269,2024-11-07,11,Thursday,Dr. Carlos Lima,Pediatria,Unimed,Adrianópolis,Realizado,60,211.84
+270,2024-07-06,7,Saturday,Dr. Marcos Souza,Clínica Geral,Bradesco Saúde,Chapada,Cancelado,0,0.0
+271,2024-12-13,12,Friday,Dr. Marcos Souza,Dermatologia,Unimed,Ponta Negra,Realizado,60,268.02
+272,2024-09-28,9,Saturday,Dra. Fernanda Reis,Ortopedia,Unimed,Ponta Negra,Realizado,40,318.56
+273,2024-01-14,1,Sunday,Dra. Ana Paula,Cardiologia,Bradesco Saúde,Chapada,Remarcado,0,0.0
+274,2024-03-01,3,Friday,Dr. Marcos Souza,Dermatologia,Particular,Ponta Negra,Faltou,0,0.0
+275,2024-05-26,5,Sunday,Dra. Fernanda Reis,Ortopedia,Bradesco Saúde,Adrianópolis,Remarcado,0,0.0
+276,2024-08-19,8,Monday,Dra. Ana Paula,Clínica Geral,Bradesco Saúde,Chapada,Faltou,0,0.0
+277,2024-12-29,12,Sunday,Dr. Roberto Alves,Clínica Geral,SulAmérica,Flores,Realizado,20,142.01
+278,2024-12-30,12,Monday,Dra. Ana Paula,Cardiologia,SulAmérica,Ponta Negra,Faltou,0,0.0
+279,2024-04-12,4,Friday,Dra. Ana Paula,Dermatologia,Bradesco Saúde,Chapada,Realizado,30,221.81
+280,2024-07-07,7,Sunday,Dr. Roberto Alves,Clínica Geral,SulAmérica,Adrianópolis,Realizado,60,181.33
+281,2024-07-22,7,Monday,Dr. Roberto Alves,Dermatologia,Unimed,Chapada,Realizado,60,302.54
+282,2024-06-11,6,Tuesday,Dra. Fernanda Reis,Ortopedia,Hapvida,Chapada,Realizado,20,330.97
+283,2024-10-09,10,Wednesday,Dra. Ana Paula,Dermatologia,SulAmérica,Chapada,Realizado,30,246.4
+284,2024-09-22,9,Sunday,Dra. Ana Paula,Dermatologia,Unimed,Ponta Negra,Faltou,0,0.0
+285,2024-12-29,12,Sunday,Dr. Marcos Souza,Pediatria,Bradesco Saúde,Flores,Realizado,30,178.14
+286,2024-11-21,11,Thursday,Dra. Ana Paula,Cardiologia,Unimed,Ponta Negra,Realizado,40,399.13
+287,2024-11-24,11,Sunday,Dr. Roberto Alves,Dermatologia,Hapvida,Flores,Realizado,30,302.21
+288,2024-11-05,11,Tuesday,Dr. Roberto Alves,Pediatria,Bradesco Saúde,Centro,Realizado,40,216.87
+289,2024-11-24,11,Sunday,Dra. Ana Paula,Clínica Geral,Unimed,Flores,Realizado,40,174.29
+290,2024-09-11,9,Wednesday,Dr. Marcos Souza,Ortopedia,Hapvida,Chapada,Realizado,40,332.04
+291,2024-02-07,2,Wednesday,Dra. Ana Paula,Pediatria,Particular,Chapada,Realizado,20,159.06
+292,2024-06-23,6,Sunday,Dr. Marcos Souza,Ortopedia,Particular,Ponta Negra,Realizado,30,274.4
+293,2024-07-08,7,Monday,Dr. Marcos Souza,Cardiologia,Particular,Adrianópolis,Realizado,20,423.3
+294,2024-05-06,5,Monday,Dr. Carlos Lima,Ortopedia,Unimed,Centro,Realizado,30,327.77
+295,2024-08-02,8,Friday,Dra. Ana Paula,Cardiologia,Particular,Adrianópolis,Faltou,0,0.0
+296,2024-04-07,4,Sunday,Dra. Ana Paula,Cardiologia,Hapvida,Chapada,Cancelado,0,0.0
+297,2024-06-06,6,Thursday,Dr. Carlos Lima,Dermatologia,Particular,Centro,Realizado,60,213.42
+298,2024-05-03,5,Friday,Dr. Roberto Alves,Ortopedia,Hapvida,Ponta Negra,Realizado,30,267.18
+299,2024-11-01,11,Friday,Dr. Marcos Souza,Clínica Geral,Unimed,Flores,Realizado,60,167.31
+300,2024-05-15,5,Wednesday,Dra. Fernanda Reis,Clínica Geral,Unimed,Ponta Negra,Realizado,40,127.8
+301,2024-10-14,10,Monday,Dr. Marcos Souza,Clínica Geral,Particular,Flores,Realizado,30,137.15
+302,2024-08-18,8,Sunday,Dr. Roberto Alves,Cardiologia,Unimed,Flores,Realizado,40,374.32
+303,2024-07-20,7,Saturday,Dr. Marcos Souza,Clínica Geral,Bradesco Saúde,Ponta Negra,Remarcado,0,0.0
+304,2024-04-11,4,Thursday,Dr. Roberto Alves,Dermatologia,SulAmérica,Flores,Cancelado,0,0.0
+305,2024-01-20,1,Saturday,Dr. Marcos Souza,Ortopedia,Hapvida,Chapada,Realizado,30,338.03
+306,2024-09-20,9,Friday,Dr. Marcos Souza,Dermatologia,Particular,Flores,Realizado,30,277.7
+307,2024-11-11,11,Monday,Dr. Roberto Alves,Cardiologia,Bradesco Saúde,Ponta Negra,Realizado,40,328.9
+308,2024-12-28,12,Saturday,Dra. Fernanda Reis,Dermatologia,Hapvida,Centro,Realizado,40,283.72
+309,2024-08-01,8,Thursday,Dr. Carlos Lima,Cardiologia,SulAmérica,Flores,Realizado,40,330.71
+310,2024-10-23,10,Wednesday,Dr. Roberto Alves,Ortopedia,SulAmérica,Adrianópolis,Remarcado,0,0.0
+311,2024-09-25,9,Wednesday,Dra. Ana Paula,Clínica Geral,Hapvida,Adrianópolis,Realizado,60,147.02
+312,2024-02-26,2,Monday,Dra. Ana Paula,Clínica Geral,Hapvida,Centro,Remarcado,0,0.0
+313,2024-07-30,7,Tuesday,Dra. Fernanda Reis,Ortopedia,SulAmérica,Flores,Realizado,30,344.58
+314,2024-02-01,2,Thursday,Dra. Ana Paula,Dermatologia,Particular,Flores,Faltou,0,0.0
+315,2024-12-05,12,Thursday,Dr. Roberto Alves,Pediatria,Hapvida,Chapada,Realizado,60,199.77
+316,2024-09-29,9,Sunday,Dr. Roberto Alves,Cardiologia,Bradesco Saúde,Ponta Negra,Realizado,40,416.39
+317,2024-05-06,5,Monday,Dr. Roberto Alves,Cardiologia,Hapvida,Ponta Negra,Realizado,40,389.57
+318,2024-12-26,12,Thursday,Dra. Ana Paula,Pediatria,SulAmérica,Chapada,Cancelado,0,0.0
+319,2024-05-20,5,Monday,Dr. Carlos Lima,Cardiologia,Particular,Flores,Realizado,40,377.06
+320,2024-07-21,7,Sunday,Dr. Marcos Souza,Dermatologia,Particular,Adrianópolis,Faltou,0,0.0
+321,2024-12-31,12,Tuesday,Dr. Marcos Souza,Cardiologia,Unimed,Chapada,Realizado,20,310.61
+322,2024-10-02,10,Wednesday,Dr. Roberto Alves,Cardiologia,Particular,Ponta Negra,Realizado,40,348.98
+323,2024-10-27,10,Sunday,Dra. Ana Paula,Pediatria,Unimed,Centro,Realizado,30,172.09
+324,2024-01-27,1,Saturday,Dra. Fernanda Reis,Dermatologia,Bradesco Saúde,Ponta Negra,Realizado,20,236.9
+325,2024-03-11,3,Monday,Dr. Roberto Alves,Ortopedia,Unimed,Adrianópolis,Realizado,20,371.76
+326,2024-04-12,4,Friday,Dr. Marcos Souza,Ortopedia,Particular,Ponta Negra,Realizado,40,302.17
+327,2024-04-28,4,Sunday,Dra. Ana Paula,Clínica Geral,Unimed,Chapada,Realizado,20,181.02
+328,2024-07-22,7,Monday,Dra. Fernanda Reis,Pediatria,Unimed,Adrianópolis,Remarcado,0,0.0
+329,2024-10-17,10,Thursday,Dr. Marcos Souza,Cardiologia,Unimed,Ponta Negra,Realizado,20,385.86
+330,2024-03-09,3,Saturday,Dr. Marcos Souza,Ortopedia,Hapvida,Adrianópolis,Realizado,60,350.38
+331,2024-08-22,8,Thursday,Dra. Ana Paula,Clínica Geral,SulAmérica,Centro,Realizado,40,157.66
+332,2024-04-08,4,Monday,Dr. Roberto Alves,Cardiologia,SulAmérica,Chapada,Realizado,30,378.27
+333,2024-07-24,7,Wednesday,Dra. Ana Paula,Ortopedia,Hapvida,Adrianópolis,Realizado,20,314.1
+334,2024-01-04,1,Thursday,Dr. Marcos Souza,Ortopedia,SulAmérica,Chapada,Remarcado,0,0.0
+335,2024-06-17,6,Monday,Dr. Marcos Souza,Pediatria,Particular,Flores,Cancelado,0,0.0
+336,2024-07-03,7,Wednesday,Dr. Carlos Lima,Dermatologia,Unimed,Centro,Realizado,30,232.02
+337,2024-12-17,12,Tuesday,Dr. Carlos Lima,Ortopedia,SulAmérica,Ponta Negra,Realizado,40,341.69
+338,2024-03-09,3,Saturday,Dra. Ana Paula,Cardiologia,Hapvida,Chapada,Realizado,60,336.81
+339,2024-10-08,10,Tuesday,Dr. Roberto Alves,Dermatologia,SulAmérica,Adrianópolis,Realizado,60,214.93
+340,2024-02-11,2,Sunday,Dr. Roberto Alves,Pediatria,Hapvida,Chapada,Faltou,0,0.0
+341,2024-10-15,10,Tuesday,Dr. Carlos Lima,Dermatologia,SulAmérica,Flores,Realizado,20,277.05
+342,2024-03-17,3,Sunday,Dr. Marcos Souza,Dermatologia,Bradesco Saúde,Flores,Realizado,30,230.21
+343,2024-10-25,10,Friday,Dr. Carlos Lima,Ortopedia,Unimed,Flores,Realizado,60,367.86
+344,2024-09-19,9,Thursday,Dra. Fernanda Reis,Ortopedia,Unimed,Flores,Realizado,60,369.47
+345,2024-06-06,6,Thursday,Dra. Fernanda Reis,Clínica Geral,Hapvida,Ponta Negra,Realizado,20,182.39
+346,2024-01-24,1,Wednesday,Dr. Marcos Souza,Clínica Geral,Bradesco Saúde,Centro,Realizado,60,149.71
+347,2024-02-05,2,Monday,Dra. Fernanda Reis,Dermatologia,Unimed,Centro,Remarcado,0,0.0
+348,2024-03-10,3,Sunday,Dr. Marcos Souza,Cardiologia,Particular,Chapada,Realizado,60,299.66
+349,2024-12-15,12,Sunday,Dr. Marcos Souza,Ortopedia,Particular,Centro,Realizado,30,366.4
+350,2024-03-06,3,Wednesday,Dr. Carlos Lima,Pediatria,Hapvida,Centro,Realizado,30,183.83
+351,2024-10-05,10,Saturday,Dr. Roberto Alves,Cardiologia,Particular,Chapada,Realizado,60,432.83
+352,2024-03-20,3,Wednesday,Dra. Ana Paula,Pediatria,Bradesco Saúde,Centro,Realizado,40,222.38
+353,2024-01-09,1,Tuesday,Dra. Ana Paula,Clínica Geral,Particular,Centro,Realizado,30,178.68
+354,2024-11-02,11,Saturday,Dra. Ana Paula,Clínica Geral,Hapvida,Centro,Realizado,20,145.17
+355,2024-04-21,4,Sunday,Dra. Ana Paula,Ortopedia,Particular,Flores,Realizado,20,301.21
+356,2024-10-21,10,Monday,Dr. Marcos Souza,Cardiologia,Bradesco Saúde,Flores,Cancelado,0,0.0
+357,2024-03-14,3,Thursday,Dra. Fernanda Reis,Dermatologia,SulAmérica,Ponta Negra,Realizado,30,297.61
+358,2024-10-29,10,Tuesday,Dra. Fernanda Reis,Cardiologia,Unimed,Flores,Realizado,30,341.87
+359,2024-11-25,11,Monday,Dra. Fernanda Reis,Ortopedia,Unimed,Flores,Remarcado,0,0.0
+360,2024-06-02,6,Sunday,Dra. Ana Paula,Cardiologia,Particular,Flores,Realizado,60,321.23
+361,2024-06-02,6,Sunday,Dra. Ana Paula,Ortopedia,Bradesco Saúde,Chapada,Faltou,0,0.0
+362,2024-08-01,8,Thursday,Dra. Fernanda Reis,Clínica Geral,Hapvida,Adrianópolis,Realizado,30,160.91
+363,2024-02-10,2,Saturday,Dr. Marcos Souza,Cardiologia,Bradesco Saúde,Centro,Realizado,60,428.56
+364,2024-07-12,7,Friday,Dr. Carlos Lima,Dermatologia,Bradesco Saúde,Adrianópolis,Realizado,20,282.1
+365,2024-04-16,4,Tuesday,Dr. Marcos Souza,Dermatologia,Hapvida,Centro,Realizado,40,269.51
+366,2024-03-01,3,Friday,Dra. Fernanda Reis,Pediatria,Bradesco Saúde,Adrianópolis,Remarcado,0,0.0
+367,2024-05-02,5,Thursday,Dr. Marcos Souza,Dermatologia,Bradesco Saúde,Chapada,Realizado,40,222.22
+368,2024-06-06,6,Thursday,Dr. Marcos Souza,Ortopedia,Hapvida,Flores,Realizado,40,328.8
+369,2024-08-28,8,Wednesday,Dra. Ana Paula,Ortopedia,Particular,Ponta Negra,Realizado,40,373.81
+370,2024-04-23,4,Tuesday,Dr. Carlos Lima,Cardiologia,Particular,Ponta Negra,Realizado,30,317.11
+371,2024-08-01,8,Thursday,Dra. Ana Paula,Dermatologia,Hapvida,Adrianópolis,Realizado,40,264.33
+372,2024-05-05,5,Sunday,Dr. Roberto Alves,Cardiologia,Bradesco Saúde,Ponta Negra,Realizado,60,420.33
+373,2024-11-24,11,Sunday,Dra. Fernanda Reis,Cardiologia,Particular,Chapada,Remarcado,0,0.0
+374,2024-10-06,10,Sunday,Dra. Ana Paula,Pediatria,SulAmérica,Flores,Realizado,60,206.34
+375,2024-02-08,2,Thursday,Dr. Carlos Lima,Clínica Geral,Hapvida,Chapada,Realizado,20,169.32
+376,2024-03-18,3,Monday,Dra. Ana Paula,Pediatria,Bradesco Saúde,Flores,Realizado,20,203.58
+377,2024-11-22,11,Friday,Dra. Fernanda Reis,Ortopedia,SulAmérica,Centro,Realizado,60,298.14
+378,2024-01-07,1,Sunday,Dr. Roberto Alves,Clínica Geral,Hapvida,Ponta Negra,Realizado,20,145.12
+379,2024-12-23,12,Monday,Dra. Ana Paula,Dermatologia,SulAmérica,Centro,Realizado,60,293.44
+380,2024-04-08,4,Monday,Dr. Marcos Souza,Clínica Geral,Hapvida,Ponta Negra,Realizado,40,176.11
+381,2024-07-26,7,Friday,Dr. Roberto Alves,Ortopedia,Unimed,Adrianópolis,Realizado,60,359.05
+382,2024-02-11,2,Sunday,Dr. Carlos Lima,Pediatria,SulAmérica,Chapada,Realizado,20,218.75
+383,2024-01-29,1,Monday,Dra. Ana Paula,Ortopedia,Particular,Centro,Realizado,20,316.36
+384,2024-06-18,6,Tuesday,Dr. Roberto Alves,Ortopedia,Particular,Centro,Realizado,20,315.18
+385,2024-12-20,12,Friday,Dr. Roberto Alves,Pediatria,Bradesco Saúde,Chapada,Faltou,0,0.0
+386,2024-12-16,12,Monday,Dr. Marcos Souza,Cardiologia,Unimed,Flores,Remarcado,0,0.0
+387,2024-06-10,6,Monday,Dra. Ana Paula,Dermatologia,Unimed,Flores,Realizado,20,292.33
+388,2024-06-02,6,Sunday,Dra. Ana Paula,Pediatria,Particular,Flores,Remarcado,0,0.0
+389,2024-07-18,7,Thursday,Dr. Roberto Alves,Pediatria,Hapvida,Ponta Negra,Faltou,0,0.0
+390,2024-12-18,12,Wednesday,Dr. Carlos Lima,Ortopedia,Bradesco Saúde,Flores,Cancelado,0,0.0
+391,2024-04-28,4,Sunday,Dr. Marcos Souza,Cardiologia,Unimed,Flores,Realizado,20,388.49
+392,2024-06-16,6,Sunday,Dr. Marcos Souza,Dermatologia,Hapvida,Chapada,Realizado,20,282.7
+393,2024-07-11,7,Thursday,Dra. Ana Paula,Ortopedia,Bradesco Saúde,Flores,Realizado,60,350.5
+394,2024-05-31,5,Friday,Dra. Ana Paula,Ortopedia,Unimed,Centro,Cancelado,0,0.0
+395,2024-12-30,12,Monday,Dra. Fernanda Reis,Clínica Geral,SulAmérica,Ponta Negra,Realizado,30,180.9
+396,2024-06-06,6,Thursday,Dr. Marcos Souza,Cardiologia,Unimed,Ponta Negra,Realizado,60,344.82
+397,2024-08-08,8,Thursday,Dr. Roberto Alves,Clínica Geral,Bradesco Saúde,Flores,Realizado,60,150.03
+398,2024-02-15,2,Thursday,Dr. Roberto Alves,Dermatologia,Particular,Centro,Realizado,40,221.9
+399,2024-07-16,7,Tuesday,Dr. Carlos Lima,Dermatologia,Hapvida,Ponta Negra,Cancelado,0,0.0
+400,2024-10-13,10,Sunday,Dra. Ana Paula,Ortopedia,Particular,Flores,Cancelado,0,0.0
+401,2024-03-27,3,Wednesday,Dr. Marcos Souza,Dermatologia,Bradesco Saúde,Ponta Negra,Realizado,30,270.33
+402,2024-03-26,3,Tuesday,Dr. Marcos Souza,Cardiologia,Particular,Chapada,Realizado,60,302.53
+403,2024-07-03,7,Wednesday,Dr. Marcos Souza,Cardiologia,Particular,Adrianópolis,Cancelado,0,0.0
+404,2024-08-22,8,Thursday,Dra. Ana Paula,Ortopedia,Hapvida,Ponta Negra,Realizado,20,310.87
+405,2024-11-13,11,Wednesday,Dr. Marcos Souza,Clínica Geral,Particular,Chapada,Realizado,60,160.06
+406,2024-11-29,11,Friday,Dr. Roberto Alves,Cardiologia,Particular,Adrianópolis,Cancelado,0,0.0
+407,2024-12-21,12,Saturday,Dra. Fernanda Reis,Cardiologia,SulAmérica,Ponta Negra,Realizado,30,337.62
+408,2024-05-29,5,Wednesday,Dra. Fernanda Reis,Pediatria,Particular,Flores,Remarcado,0,0.0
+409,2024-07-20,7,Saturday,Dr. Carlos Lima,Pediatria,SulAmérica,Flores,Realizado,40,195.54
+410,2024-04-02,4,Tuesday,Dr. Roberto Alves,Pediatria,Hapvida,Centro,Remarcado,0,0.0
+411,2024-05-29,5,Wednesday,Dra. Fernanda Reis,Ortopedia,Bradesco Saúde,Chapada,Realizado,20,258.66
+412,2024-12-03,12,Tuesday,Dra. Fernanda Reis,Pediatria,SulAmérica,Chapada,Realizado,30,155.69
+413,2024-09-02,9,Monday,Dr. Roberto Alves,Clínica Geral,Particular,Chapada,Remarcado,0,0.0
+414,2024-12-20,12,Friday,Dra. Fernanda Reis,Dermatologia,Hapvida,Flores,Remarcado,0,0.0
+415,2024-10-01,10,Tuesday,Dr. Roberto Alves,Clínica Geral,SulAmérica,Centro,Cancelado,0,0.0
+416,2024-06-30,6,Sunday,Dr. Roberto Alves,Clínica Geral,Bradesco Saúde,Centro,Realizado,30,176.86
+417,2024-06-18,6,Tuesday,Dra. Fernanda Reis,Dermatologia,Particular,Centro,Remarcado,0,0.0
+418,2024-09-18,9,Wednesday,Dra. Fernanda Reis,Clínica Geral,Unimed,Ponta Negra,Realizado,30,149.11
+419,2024-10-28,10,Monday,Dr. Roberto Alves,Ortopedia,Particular,Adrianópolis,Cancelado,0,0.0
+420,2024-05-31,5,Friday,Dr. Carlos Lima,Cardiologia,Unimed,Centro,Realizado,60,315.29
+421,2024-08-21,8,Wednesday,Dr. Roberto Alves,Pediatria,SulAmérica,Chapada,Realizado,30,190.6
+422,2024-12-22,12,Sunday,Dr. Marcos Souza,Cardiologia,Particular,Centro,Realizado,60,405.3
+423,2024-02-28,2,Wednesday,Dr. Carlos Lima,Cardiologia,Unimed,Ponta Negra,Cancelado,0,0.0
+424,2024-05-04,5,Saturday,Dr. Roberto Alves,Clínica Geral,Bradesco Saúde,Adrianópolis,Remarcado,0,0.0
+425,2024-08-06,8,Tuesday,Dra. Ana Paula,Dermatologia,Bradesco Saúde,Chapada,Realizado,60,234.08
+426,2024-08-09,8,Friday,Dr. Carlos Lima,Pediatria,Bradesco Saúde,Flores,Realizado,60,197.85
+427,2024-07-18,7,Thursday,Dra. Ana Paula,Pediatria,Particular,Adrianópolis,Realizado,20,159.15
+428,2024-10-01,10,Tuesday,Dr. Marcos Souza,Cardiologia,Unimed,Ponta Negra,Realizado,30,304.74
+429,2024-12-09,12,Monday,Dr. Roberto Alves,Pediatria,Particular,Ponta Negra,Realizado,60,191.26
+430,2024-10-27,10,Sunday,Dr. Marcos Souza,Dermatologia,Particular,Ponta Negra,Realizado,20,266.56
+431,2024-12-10,12,Tuesday,Dr. Roberto Alves,Ortopedia,Hapvida,Flores,Realizado,40,331.49
+432,2024-05-02,5,Thursday,Dr. Carlos Lima,Clínica Geral,Bradesco Saúde,Adrianópolis,Realizado,40,171.07
+433,2024-08-02,8,Friday,Dr. Roberto Alves,Cardiologia,Bradesco Saúde,Chapada,Realizado,30,434.12
+434,2024-10-02,10,Wednesday,Dr. Roberto Alves,Ortopedia,Bradesco Saúde,Adrianópolis,Realizado,30,316.96
+435,2024-06-10,6,Monday,Dr. Roberto Alves,Ortopedia,SulAmérica,Centro,Realizado,60,293.75
+436,2024-04-09,4,Tuesday,Dr. Roberto Alves,Cardiologia,Unimed,Flores,Realizado,60,408.83
+437,2024-07-31,7,Wednesday,Dra. Fernanda Reis,Ortopedia,Particular,Adrianópolis,Realizado,60,287.5
+438,2024-04-22,4,Monday,Dr. Carlos Lima,Clínica Geral,Hapvida,Ponta Negra,Realizado,40,153.84
+439,2024-08-22,8,Thursday,Dr. Roberto Alves,Pediatria,Hapvida,Flores,Realizado,60,158.65
+440,2024-10-05,10,Saturday,Dr. Roberto Alves,Clínica Geral,Hapvida,Centro,Realizado,40,129.02
+441,2024-08-05,8,Monday,Dra. Ana Paula,Ortopedia,Hapvida,Ponta Negra,Realizado,20,370.52
+442,2024-02-14,2,Wednesday,Dr. Carlos Lima,Clínica Geral,Particular,Adrianópolis,Realizado,60,177.66
+443,2024-12-29,12,Sunday,Dra. Ana Paula,Pediatria,Hapvida,Flores,Realizado,60,203.11
+444,2024-01-31,1,Wednesday,Dr. Roberto Alves,Pediatria,Bradesco Saúde,Ponta Negra,Cancelado,0,0.0
+445,2024-03-27,3,Wednesday,Dr. Marcos Souza,Dermatologia,SulAmérica,Ponta Negra,Realizado,40,253.4
+446,2024-09-20,9,Friday,Dr. Carlos Lima,Dermatologia,SulAmérica,Adrianópolis,Remarcado,0,0.0
+447,2024-12-01,12,Sunday,Dra. Ana Paula,Ortopedia,Unimed,Adrianópolis,Remarcado,0,0.0
+448,2024-05-06,5,Monday,Dra. Fernanda Reis,Pediatria,Bradesco Saúde,Chapada,Cancelado,0,0.0
+449,2024-11-17,11,Sunday,Dra. Fernanda Reis,Pediatria,Hapvida,Chapada,Realizado,60,165.48
+450,2024-05-22,5,Wednesday,Dra. Fernanda Reis,Clínica Geral,Unimed,Chapada,Realizado,40,136.89
+451,2024-02-17,2,Saturday,Dr. Marcos Souza,Cardiologia,Hapvida,Centro,Realizado,60,332.53
+452,2024-08-07,8,Wednesday,Dra. Fernanda Reis,Dermatologia,Particular,Ponta Negra,Realizado,30,267.42
+453,2024-10-22,10,Tuesday,Dr. Roberto Alves,Cardiologia,SulAmérica,Chapada,Realizado,30,397.54
+454,2024-11-16,11,Saturday,Dr. Carlos Lima,Cardiologia,Unimed,Centro,Realizado,60,389.93
+455,2024-08-07,8,Wednesday,Dra. Ana Paula,Pediatria,Particular,Ponta Negra,Realizado,30,173.16
+456,2024-07-03,7,Wednesday,Dr. Carlos Lima,Pediatria,SulAmérica,Ponta Negra,Realizado,40,221.75
+457,2024-06-05,6,Wednesday,Dra. Fernanda Reis,Pediatria,Unimed,Centro,Realizado,30,206.13
+458,2024-02-09,2,Friday,Dr. Roberto Alves,Clínica Geral,Unimed,Adrianópolis,Realizado,30,160.76
+459,2024-12-22,12,Sunday,Dr. Carlos Lima,Dermatologia,Particular,Chapada,Realizado,40,273.67
+460,2024-07-15,7,Monday,Dr. Carlos Lima,Pediatria,Particular,Centro,Realizado,20,183.21
+461,2024-03-11,3,Monday,Dra. Fernanda Reis,Cardiologia,SulAmérica,Adrianópolis,Faltou,0,0.0
+462,2024-01-05,1,Friday,Dra. Fernanda Reis,Pediatria,Unimed,Ponta Negra,Realizado,30,170.84
+463,2024-11-11,11,Monday,Dra. Fernanda Reis,Pediatria,Bradesco Saúde,Adrianópolis,Faltou,0,0.0
+464,2024-03-04,3,Monday,Dr. Marcos Souza,Clínica Geral,Unimed,Chapada,Realizado,60,148.86
+465,2024-11-26,11,Tuesday,Dra. Ana Paula,Cardiologia,Bradesco Saúde,Flores,Realizado,20,403.6
+466,2024-05-25,5,Saturday,Dr. Carlos Lima,Dermatologia,Hapvida,Ponta Negra,Cancelado,0,0.0
+467,2024-04-06,4,Saturday,Dr. Marcos Souza,Pediatria,Hapvida,Centro,Realizado,60,154.04
+468,2024-05-03,5,Friday,Dr. Roberto Alves,Pediatria,Particular,Centro,Realizado,60,161.36
+469,2024-06-11,6,Tuesday,Dra. Ana Paula,Dermatologia,Unimed,Chapada,Remarcado,0,0.0
+470,2024-12-15,12,Sunday,Dra. Fernanda Reis,Dermatologia,Particular,Centro,Realizado,30,217.1
+471,2024-05-14,5,Tuesday,Dr. Carlos Lima,Clínica Geral,Hapvida,Centro,Realizado,30,129.94
+472,2024-12-30,12,Monday,Dra. Fernanda Reis,Ortopedia,Hapvida,Chapada,Realizado,60,357.66
+473,2024-03-19,3,Tuesday,Dr. Carlos Lima,Clínica Geral,Hapvida,Ponta Negra,Realizado,40,169.72
+474,2024-03-20,3,Wednesday,Dr. Roberto Alves,Clínica Geral,Hapvida,Ponta Negra,Remarcado,0,0.0
+475,2024-11-28,11,Thursday,Dr. Marcos Souza,Ortopedia,Hapvida,Chapada,Realizado,20,311.9
+476,2024-08-10,8,Saturday,Dra. Fernanda Reis,Pediatria,Unimed,Flores,Realizado,20,160.04
+477,2024-12-02,12,Monday,Dr. Carlos Lima,Dermatologia,Unimed,Centro,Realizado,30,261.66
+478,2024-06-26,6,Wednesday,Dra. Ana Paula,Pediatria,Unimed,Ponta Negra,Realizado,40,187.09
+479,2024-03-01,3,Friday,Dr. Carlos Lima,Pediatria,SulAmérica,Ponta Negra,Cancelado,0,0.0
+480,2024-05-14,5,Tuesday,Dra. Fernanda Reis,Ortopedia,SulAmérica,Chapada,Realizado,20,275.78
+481,2024-10-17,10,Thursday,Dr. Marcos Souza,Dermatologia,SulAmérica,Adrianópolis,Realizado,30,255.89
+482,2024-12-11,12,Wednesday,Dr. Carlos Lima,Cardiologia,Unimed,Adrianópolis,Faltou,0,0.0
+483,2024-01-07,1,Sunday,Dr. Carlos Lima,Dermatologia,Unimed,Chapada,Realizado,30,252.35
+484,2024-04-01,4,Monday,Dr. Carlos Lima,Cardiologia,Particular,Flores,Remarcado,0,0.0
+485,2024-08-01,8,Thursday,Dr. Marcos Souza,Ortopedia,Bradesco Saúde,Centro,Realizado,40,328.9
+486,2024-12-10,12,Tuesday,Dra. Ana Paula,Dermatologia,SulAmérica,Adrianópolis,Realizado,20,276.01
+487,2024-02-05,2,Monday,Dra. Fernanda Reis,Dermatologia,Unimed,Ponta Negra,Remarcado,0,0.0
+488,2024-08-21,8,Wednesday,Dr. Marcos Souza,Cardiologia,SulAmérica,Adrianópolis,Realizado,20,303.84
+489,2024-11-14,11,Thursday,Dra. Ana Paula,Cardiologia,Hapvida,Chapada,Cancelado,0,0.0
+490,2024-04-10,4,Wednesday,Dr. Roberto Alves,Cardiologia,Hapvida,Adrianópolis,Remarcado,0,0.0
+491,2024-01-13,1,Saturday,Dra. Ana Paula,Pediatria,Unimed,Flores,Remarcado,0,0.0
+492,2024-01-01,1,Monday,Dra. Fernanda Reis,Cardiologia,Unimed,Ponta Negra,Remarcado,0,0.0
+493,2024-05-01,5,Wednesday,Dra. Fernanda Reis,Clínica Geral,Bradesco Saúde,Centro,Realizado,60,149.98
+494,2024-04-28,4,Sunday,Dr. Marcos Souza,Pediatria,SulAmérica,Chapada,Realizado,60,198.06
+495,2024-03-09,3,Saturday,Dr. Carlos Lima,Clínica Geral,Hapvida,Flores,Realizado,60,157.69
+496,2024-03-07,3,Thursday,Dr. Marcos Souza,Dermatologia,Unimed,Ponta Negra,Realizado,30,298.15
+497,2024-06-16,6,Sunday,Dr. Marcos Souza,Cardiologia,Particular,Chapada,Cancelado,0,0.0
+498,2024-04-13,4,Saturday,Dr. Roberto Alves,Cardiologia,Bradesco Saúde,Centro,Realizado,30,389.72
+499,2024-08-26,8,Monday,Dra. Fernanda Reis,Pediatria,Unimed,Centro,Realizado,40,164.73
+500,2024-04-16,4,Tuesday,Dra. Fernanda Reis,Dermatologia,SulAmérica,Ponta Negra,Remarcado,0,0.0
